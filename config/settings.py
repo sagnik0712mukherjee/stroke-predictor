@@ -4,7 +4,7 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # File paths
-DATA_PATH = os.path.join(BASE_DIR, 'healthcare-dataset-stroke-data.csv')
+DATA_PATH = os.path.join(BASE_DIR, 'src/data/healthcare-dataset-stroke-data.csv')
 MODEL_PATH = os.path.join(BASE_DIR, 'model.pkl')
 
 # Data configuration
