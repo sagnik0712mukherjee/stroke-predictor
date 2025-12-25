@@ -61,3 +61,8 @@ Fill in the patient details in the web form and click "Predict" to see the strok
 ## Dataset
 
 The model uses the [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) from Kaggle.
+
+## Author
+
+**Sagnik Mukherjee**  
+[GitHub Profile](https://github.com/sagnik0712mukherjee)
